@@ -8,10 +8,5 @@
     "username": "user1",
     "password": "userpass",
     "role": "user"
-  },
-  {
-    "username": "guest",
-    "password": "",
-    "role": "guest"
   }
 ]
